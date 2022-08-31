@@ -1,3 +1,4 @@
+console.log('Created by Aman')
 let waitTill = 0;
 let timer = document.querySelector('.timer');
 let currentLight = 'red';
